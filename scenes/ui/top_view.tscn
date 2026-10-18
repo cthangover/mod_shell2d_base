@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://d3m4jm0xk8ruc"]
 
 [ext_resource type="Script" uid="uid://bf3qln30mdj5w" path="res://mods/time_base/src/Lights/LampBehaviour.cs" id="LampBehaviourScript"]
-[ext_resource type="Script" uid="uid://brtwe4dkubjxe" path="res://mods/interface/src/Menu/SaveIcon.cs" id="TextureRectModIconLoaderScript"]
+[ext_resource type="Script" uid="uid://brtwe4dkubjxe" path="res://mods/ui_base/src/Menu/SaveIcon.cs" id="TextureRectModIconLoaderScript"]
 [ext_resource type="Script" uid="uid://6a38jpevrxy4" path="res://mods/time_base/src/TimeController.cs" id="TimeControllerScript"]
-[ext_resource type="Script" uid="uid://dxr0u22mgwkay" path="res://mods/interface/src/Tool/ToolBox.cs" id="ToolBoxScript"]
+[ext_resource type="Script" uid="uid://dxr0u22mgwkay" path="res://mods/ui_base/src/Tool/ToolBox.cs" id="ToolBoxScript"]
 
 [node name="TopView" type="Control" unique_id=1316944324]
 layout_mode = 3

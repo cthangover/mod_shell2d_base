@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" path="res://scenes/ui/view_box.tscn" id="2_viewbox"]
 [ext_resource type="PackedScene" path="res://scenes/ui/top_view.tscn" id="3_topview"]
-[ext_resource type="Script" path="res://mods/interface/src/Messages/NotificationPanel.cs" id="4_notification"]
+[ext_resource type="Script" path="res://mods/ui_base/src/Messages/NotificationPanel.cs" id="4_notification"]
 
 [node name="BaseScene" type="Control" groups=["main_event_chain"]]
 layout_mode = 3

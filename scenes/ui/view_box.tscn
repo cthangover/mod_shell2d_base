@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bw5sfp66lf0jw"]
 
-[ext_resource type="Script" uid="uid://qhlsegnxyhf4" path="res://mods/interface/src/View/ViewBox.cs" id="1_viewbox"]
+[ext_resource type="Script" uid="uid://qhlsegnxyhf4" path="res://mods/ui_base/src/View/ViewBox.cs" id="1_viewbox"]
 [ext_resource type="PackedScene" path="res://scenes/ui/lights.tscn" id="2_lights"]
 
 [node name="ViewBox" type="Control" unique_id=2077779400]
