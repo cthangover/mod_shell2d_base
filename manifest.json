@@ -3,7 +3,7 @@
   "name": "2D Shell",
   "version": "1.0.0",
   "author": "ct",
-  "description": "2D presentation platform: base shell scene with the view box, toolbar, panel slots and notifications. Parent for all 2D mods; content mods fill the shell through scene patches.",
+  "description": "The frame every 2D game is drawn in: the background view box, the toolbar, panel slots and notifications that content mods fill.",
   "category": "engine, library",
   "depends": ["time_base>=1", "ui_base>=1"],
   "ui": []
