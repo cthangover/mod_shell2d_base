@@ -1,10 +1,10 @@
 {
   "id": "shell2d_base",
   "name": "2D Shell",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ct",
   "description": "The frame every 2D game is drawn in: the background view box, the toolbar, panel slots and notifications that content mods fill.",
   "category": "engine, library",
-  "depends": ["time_base>=1", "ui_base>=1"],
+  "depends": ["time_base>=0.1.0", "ui_base>=0.1.0"],
   "ui": []
 }
