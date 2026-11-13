@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "ct",
   "description": "The frame every 2D game is drawn in: the background view box, the toolbar, panel slots and notifications that content mods fill.",
-  "category": "engine, library",
+  "categories": ["engine", "library"],
   "depends": ["time_base>=0.1.0", "ui_base>=0.1.0"],
   "ui": []
 }
